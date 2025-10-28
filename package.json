@@ -1,5 +1,5 @@
 {
-  "name": "ai-resume-analyzer",
+  "name": "neuralScan_Resume_Analyzer",
   "private": true,
   "type": "module",
   "scripts": {
