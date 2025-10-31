@@ -1,4 +1,4 @@
-    <h2 align="center">AI Resume Analyzer</h2>  
+  ## AI Resume Analyzer 
   
   ![Project Preview](image.png)
   <div>
@@ -7,8 +7,6 @@
         <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
     <img alt="Static Badge" src="https://img.shields.io/badge/Puter.js-181758?style=for-the-badge&logoColor=white">
   </div>
-
-
 
 </div>
 
